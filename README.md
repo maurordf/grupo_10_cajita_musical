@@ -8,7 +8,7 @@ Descripcion de cada uno de nosotros:
 Camila Martin
 Christian Luque
 Mauro Ruiz
-Carolina Florencia Pitari ///
+Carolina Florencia Pitari
 
 Sites:
 https://www.ehx.com/
