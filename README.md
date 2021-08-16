@@ -6,7 +6,7 @@ Público:  Va destinado a personas de 15 a 65 años, que tengan interes en la mu
 
 Descripcion de cada uno de nosotros:
 * Camila Martín, 23 años. Trabajo en Equifax y este curso es mi primer contacto con el mundo de la programación!
-* Christian Luque, 31 años. Trabajo como diseñador gráfico en Via Cotone Merchandising. Estudie programación en el secundario, y tengo un aproximamiento a CSS y HTML.
+* Christian Luque, 31 años. Trabajo como diseñador gráfico en Via Cotone Merchandising. Estudie programación en el secundario, y tengo una aproximación a CSS y HTML por unos cursos que realice.
 * Mauro Ruiz, 33 años. Trabajo en Sancor Salud como diseñador digital, tengo experiencia en maquetado, diseño, fotografía y video.
 * Carolina Florencia Pitari
 
