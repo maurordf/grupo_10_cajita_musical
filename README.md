@@ -11,13 +11,12 @@ Descripcion de cada uno de nosotros:
 * Carolina Florencia Pitari
 
 Sites:
-https://www.ehx.com/
-https://www.guitarcenter.com/
-https://www.musiciansfriend.com/
-https://www.gibson.com/
-https://reverb.com/
+* https://www.ehx.com/
+* https://www.guitarcenter.com/
+* https://www.musiciansfriend.com/
+* https://www.gibson.com/
+* https://reverb.com/
 
 
 Link al wireframe
-Desktop
-https://xd.adobe.com/view/609f3c30-a1ca-431b-79c6-29cc316be19d-16ae/
+* Desktop:  https://xd.adobe.com/view/609f3c30-a1ca-431b-79c6-29cc316be19d-16ae/
