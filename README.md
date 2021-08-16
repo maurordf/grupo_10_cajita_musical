@@ -5,10 +5,10 @@ Tienda online de instrumentos musicales. Se venderan instrumentos musicales, cat
 Público: Va destinado a personas de 15 a 65 años, que tengan interes en la musica o sean músicos.
 
 Descripcion de cada uno de nosotros:
-Camila Martín, 23 años. Trabajo en Equifax y este curso es mi primer contacto con el mundo de la programación!
-Christian Luque
-Mauro Ruiz, 33 años. Trabajo en Sancor Salud como diseñador digital, tengo experiencia en maquetado, diseño, fotografía y video.
-Carolina Florencia Pitari
+* Camila Martín, 23 años. Trabajo en Equifax y este curso es mi primer contacto con el mundo de la programación!
+* Christian Luque
+* Mauro Ruiz, 33 años. Trabajo en Sancor Salud como diseñador digital, tengo experiencia en maquetado, diseño, fotografía y video.
+* Carolina Florencia Pitari
 
 Sites:
 https://www.ehx.com/
