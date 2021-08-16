@@ -12,10 +12,19 @@ Descripcion de cada uno de nosotros:
 
 Sites:
 * https://www.ehx.com/
+  De este sitio tomamos como referencia la presentacion de la descripcion del producto
+  
 * https://www.guitarcenter.com/
+  Tomamos de referencia el orden de las cajas y categorías.
+  
 * https://www.musiciansfriend.com/
+  De este sitio nos parecio interesante el orden y los elementos para el formulario de inscripción
+  
 * https://www.gibson.com/
+* De este sitio nos parecio interesante el orden y los elementos para el formulario de login
+
 * https://reverb.com/
+  De este sitio tomamos de refrencia el Carrito de Compras
 
 
 Link al wireframe
