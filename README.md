@@ -8,7 +8,7 @@ Descripcion de cada uno de nosotros:
 * Camila Martín, 23 años. Trabajo en Equifax y este curso es mi primer contacto con el mundo de la programación!
 * Christian Luque, 31 años. Trabajo como diseñador gráfico en Via Cotone Merchandising. Estudie programación en el secundario, y tengo una aproximación a CSS y HTML por unos cursos que realice.
 * Mauro Ruiz, 33 años. Trabajo en Sancor Salud como diseñador digital, tengo experiencia en maquetado, diseño, fotografía y video.
-* Carolina Florencia Pitari
+* Carolina Florencia Pitari, tengod 50 años, soy CM y también es mi primer contacto con el mundo de la programación. Siendo Community Manager tengo experiencia en RRSS.
 
 Sites:
 * https://www.ehx.com/ De este sitio tomamos como referencia la presentacion de la descripcion del producto
